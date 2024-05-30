@@ -1,0 +1,14 @@
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\bin\Debug\DenaliLS_ConvertLog.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\bin\Debug\DenaliLS_ConvertLog.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\obj\Debug\DenaliLS_ConvertLog.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\obj\Debug\DenaliLS_ConvertLog.csproj.CoreCompileInputs.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\obj\Debug\DenaliLS_ConvertLog.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\obj\Debug\DenaliLS_ConvertLog.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\bin\Debug\Spire.License.dll
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\bin\Debug\Spire.Pdf.dll
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\bin\Debug\Microsoft.mshtml.dll
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\bin\Debug\Spire.XLS.xml
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\bin\Debug\Spire.License.xml
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\bin\Debug\Spire.Pdf.xml
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\obj\Debug\DenaliLS_ConvertLog.csproj.CopyComplete
+D:\ServerSvn\Projects C#\mini_projeck_template\DenaliLS_ConvertLog\DenaliLS_ConvertLog\bin\Debug\Newtonsoft.Json.xml
